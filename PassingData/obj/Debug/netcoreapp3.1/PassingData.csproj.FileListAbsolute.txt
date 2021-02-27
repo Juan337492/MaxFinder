@@ -1,0 +1,15 @@
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.csprojAssemblyReference.cache
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.Form1.resources
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.csproj.GenerateResource.cache
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.AssemblyInfoInputs.cache
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.AssemblyInfo.cs
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.csproj.CoreCompileInputs.cache
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.exe
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.deps.json
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.runtimeconfig.json
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.runtimeconfig.dev.json
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.dll
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\bin\Debug\netcoreapp3.1\PassingData.pdb
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.dll
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.pdb
+C:\Users\juan3\OneDrive\ENGLISH  0900\C#\PassingData\PassingData\obj\Debug\netcoreapp3.1\PassingData.genruntimeconfig.cache
